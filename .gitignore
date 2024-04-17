@@ -1,4 +1,4 @@
-# *.aseprite-extension
-# *.vscode/
-# *.zip
-# .DS_Store
+*.aseprite-extension
+*.vscode/
+*.zip
+.DS_Store
